@@ -28,8 +28,9 @@ def save_papers_excel(papers, topic):
     df = pd.DataFrame(rows)
     path = os.path.join(
         OUTPUT_DIR,
-        f"{topic.replace(' ', '_')}_top_2_papers.xlsx"
+        f"{topic.replace(' ', '_')}_top_3_papers.xlsx"
     )
     df.to_excel(path, index=False)
     return path
+
 
