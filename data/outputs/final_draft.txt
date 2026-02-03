@@ -1,7 +1,7 @@
 Abstract
 ----------------------------------------
 From the Publisher: 
-A valuable reference for the novice as well as for the expert who needs a wider scope of coverage within the area of cryptography, this book provides easy and rapid access of information and includes more than 200 algorithms and protocols; more than 200 tables and figures; more than 1,000 numbered definitions, facts, examples, notes, and remarks; and over 1,250 significant references, including brief comments on each paper. PQShield and Si-Five advance post-quantum cryptography in RISC-V Abstract -Cryptography and network security are foundational domains in the field of information technology and cybersecurity. As digital communication continues to expand, protecting data from unauthorized access, tampering, and interception is paramount. This paper presents a detaile...
+A valuable reference for the novice as well as for the expert who needs a wider scope of coverage within the area of cryptography, this book provides easy and rapid access of information and includes more than 200 algorithms and protocols; more than 200 tables and figures; more than 1,000 numbered definitions, facts, examples, notes, and remarks; and over 1,250 significant references, including brief comments on each paper. PQShield and Si-Five advance post-quantum cryptography in RISC-V Abstract -Cryptography and network security are foundational domains in the field of information technology and cybersecurity. As digital communication continues to expand, protecting data from unauthorised access, tampering, and interception is paramount.
 
 Methods
 ----------------------------------------
@@ -10,4 +10,5 @@ The selected studies use experimental evaluation, comparative analysis, and benc
 Results
 ----------------------------------------
 The reviewed papers consistently report improvements over baseline methods in terms of accuracy, efficiency, or scalability.
+
 
