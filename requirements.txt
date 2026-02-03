@@ -7,4 +7,5 @@ langgraph
 tiktoken
 pydantic
 huggingface_hub
-tourchpy
+PyTorch
+
