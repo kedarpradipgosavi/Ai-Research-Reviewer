@@ -1,0 +1,9 @@
+gradio
+requests
+PyMuPDF
+openai
+langchain
+langgraph
+tiktoken
+pydantic
+huggingface_hub
