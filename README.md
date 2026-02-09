@@ -5,7 +5,7 @@ This project automates:
 - PDF retrieval
 - Text extraction
 - Cross-paper analysis
-- Draft generation (Abstract, Methods, Results)
+- Draft generation (Abstract, Methods, Result)
 - Review & revision suggestions
 
 ### Tech Stack
@@ -15,3 +15,4 @@ Python, OpenAI, Semantic Scholar API, Gradio, LangChain
 ```bash
 pip install -r requirements.txt
 python app.py
+
