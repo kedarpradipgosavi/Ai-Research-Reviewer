@@ -1,6 +1,6 @@
 # AI Research Reviewer
 
-An end to end AI system that automatically retrieves, analyzes, summarizes, and generates structured review drafts from research papers.
+An end-to-end AI system that automatically retrieves, analyses, summarises, and generates structured review drafts from research papers.
 
 Developed as part of the Infosys Internship Program.
 
@@ -51,7 +51,7 @@ Ai-Research-Reviewer/
 
 ---
 
-Create virtual environment:
+Create a virtual environment:
 
 python -m venv venv  
 venv\Scripts\activate  
@@ -81,7 +81,8 @@ Open the generated local link to access the Gradio UI.
 
 ---
 
-## Author
+### Author
 
 Kedar Pradip Gosavi  
 Infosys Internship Project
+
